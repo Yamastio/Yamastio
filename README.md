@@ -14,11 +14,14 @@
   <img src="https://img.shields.io/badge/Always-Learning-green?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
+---
+
 ## About Me
-- 🔒 Focused on **cybersecurity**: Vulnerability assessment, penetration testing, and scripting.
-- 🎯 Aspiring **pentester** striving for continuous improvement and mastery.
-- 🌱 Exploring **mobile/web development** to build secure and robust applications.
-- 🌄 Morning coder for optimal productivity and clarity.
+- 🔒 **Focused on Cybersecurity**: Vulnerability assessment, penetration testing, and scripting.  
+- 🎯 Aspiring **pentester** striving for continuous improvement and mastery.  
+- 🌱 Exploring **mobile/web development** to build secure and robust applications.  
+- 🌄 Morning coder for optimal productivity and clarity.  
+- 🧑‍💻 Member of platforms like **HackTheBox** and **TryHackMe** to sharpen skills.  
 
 ---
 
@@ -26,7 +29,7 @@
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-000?&logo=C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
@@ -41,23 +44,50 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
 
 ---
 
 ## Current Projects
-- 🔐 **Cybersecurity**: Practicing with tools like **Nmap**, **Wireshark**, **Metasploit**, and scripting for vulnerability assessments.
-- 📱 **Mobile**: Developing apps using **Jetpack Compose** with a focus on security.
-- 💻 **Web**: Building a secure **online shop app** while learning OWASP practices.
+- 🔐 **Cybersecurity**:  
+  Practicing with tools like **Nmap**, **Wireshark**, **Metasploit**, and scripting for vulnerability assessments.  
+
+- 📱 **Mobile**:  
+  Developing apps using **Jetpack Compose** with a focus on security.  
+
+- 💻 **Web**:  
+  Building a secure **online shop app** while learning OWASP practices.  
+
+---
+
+## Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamastio&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamastio&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamastio&theme=rogue">
+</p>
+
+---
+
+## Inspirational Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 ---
 
 ## Connect with Me
-- 📧 **Email**: [yamastio@gmail.com](mailto:yamastio@gmail.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/Yamastio](https://linkedin.com/in/Yamastio)
+- 📧 **Email**: [yamastio@gmail.com](mailto:yamastio@gmail.com)  
+- 🌐 **LinkedIn**: [linkedin.com/in/Yamastio](https://linkedin.com/in/Yamastio)  
+- 🌍 Based in **Indonesia**, passionate about global collaboration!  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamastio&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamastio&theme=radical">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made-with-markdown">
 </p>
