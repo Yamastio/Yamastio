@@ -1,65 +1,63 @@
-# Hi there, I'm Yamastio 👋  
-Welcome to my GitHub profile! 🚀  
-![Visitor Count](https://komarev.com/ghpvc/?username=Yamastio&label=Profile%20Views&color=blue&style=flat-square)
+<h1 align="center"><b>Hi , I'm Yamastio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullahi+Wabarakatuh;Cybersecurity+Enthusiast;Aspiring+Pentester;Mobile+%26+Web+Developer;Active+Learner;Morning+Coder">
+  </a>
+</p>
 
 ---
 
-## 🌟 About Me  
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Serious%20Focus-blue?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Pentesting-Enthusiast-red?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Always-Learning-green?style=for-the-badge&logo=markdown&logoColor=white">
+</p>
 
-Hey! I'm Yamastio, a passionate learner diving into the realms of **cybersecurity** and **mobile/web development**. Here's what I'm up to:  
-
-- 🌱 **Learning:** Cybersecurity fundamentals, penetration testing, and building scalable web and mobile apps.  
-- 🛠️ **Exploring:**  
-  - **Android Studio Jetpack Compose** for modern app development.  
-  - Crafting **online shop web apps** from the ground up.  
-  - Sharpening my **pentesting skills** with hands-on projects and tools.  
-- 🎯 **Goal:** To become a **professional pentester** in the cybersecurity field.  
-- 🌄 **Fun Fact:** I'm most productive in the mornings – my brain works best with a sunrise!  
-
----
-
-## 🛠️ My Toolbox  
-
-### 🖥️ Programming Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-
-### 🔧 Tools and Platforms  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+## About Me
+- 🔒 Focused on **cybersecurity**: Vulnerability assessment, penetration testing, and scripting.
+- 🎯 Aspiring **pentester** striving for continuous improvement and mastery.
+- 🌱 Exploring **mobile/web development** to build secure and robust applications.
+- 🌄 Morning coder for optimal productivity and clarity.
 
 ---
 
-## 📂 Current Projects  
+## Tech Stack
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### 🔒 Cybersecurity  
-- Building small but powerful scripts to explore **penetration testing tools**.  
+### **Web**
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-### 📱 Mobile Development  
-- Crafting modern apps using **Android Studio Jetpack Compose**.  
-
-### 💻 Web Development  
-- Developing a fully functional **online shop app** from scratch.  
+### **Tools**
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite)
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yamastio&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamastio&layout=compact&theme=radical)  
+## Current Projects
+- 🔐 **Cybersecurity**: Practicing with tools like **Nmap**, **Wireshark**, **Metasploit**, and scripting for vulnerability assessments.
+- 📱 **Mobile**: Developing apps using **Jetpack Compose** with a focus on security.
+- 💻 **Web**: Building a secure **online shop app** while learning OWASP practices.
 
 ---
 
-## 🌐 Connect With Me  
+## Connect with Me
+- 📧 **Email**: [yamastio@gmail.com](mailto:yamastio@gmail.com)
+- 🌐 **LinkedIn**: [linkedin.com/in/Yamastio](https://linkedin.com/in/Yamastio)
 
-- 📧 **Email:** [yamastio@gmail.com](mailto:yamastio@gmail.com)  
-- 💼 **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/Yamastio)  
+---
 
-🚀 Always happy to collaborate, connect, or just have a chat!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamastio&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamastio&theme=radical">
+</p>
