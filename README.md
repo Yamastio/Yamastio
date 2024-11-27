@@ -50,14 +50,9 @@
 ---
 
 ## Current Projects
-- 🔐 **Cybersecurity**:  
-  Practicing with tools like **Nmap**, **Wireshark**, **Metasploit**, and scripting for vulnerability assessments.  
-
-- 📱 **Mobile**:  
-  Developing apps using **Jetpack Compose** with a focus on security.  
-
-- 💻 **Web**:  
-  Building a secure **online shop app** while learning OWASP practices.  
+- 🔐 [**Cybersecurity Tools**](https://github.com/yamastio/cybersecurity-tools): Exploring Nmap, Wireshark, Metasploit, and scripting.  
+- 📱 [**Secure Mobile App**](https://github.com/yamastio/secure-mobile-app): Developing with Jetpack Compose.  
+- 💻 [**Secure Webshop**](https://github.com/yamastio/secure-webshop): Learning OWASP practices and secure development.
 
 ---
 
