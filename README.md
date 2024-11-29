@@ -77,7 +77,7 @@
 
 ## Connect with Me
 - 📧 **Email**: [yamastio@gmail.com](mailto:yamastio@gmail.com)  
-- 🌐 **LinkedIn**: [linkedin.com/in/Yamastio](https://linkedin.com/in/Yamastio)  
+- 🌐 **LinkedIn**: [linkedin.com/in/Yamastio](https://www.linkedin.com/in/muhamad-yamastio-sektiningtyas-4b943733b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY4mSKVuvSfmgTyuN8M8zFA%3D%3D)  
 - 🌍 Based in **Indonesia**, passionate about global collaboration!  
 
 ---
