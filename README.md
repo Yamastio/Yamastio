@@ -51,7 +51,7 @@
 
 ## Current Projects
 - 🔐 [**Cybersecurity Tools**](https://github.com/yamastio/cybersecurity-tools): Exploring Nmap, Wireshark, Metasploit, and scripting.  
-- 📱 [**ToDo App**](https://github.com/yamastio/secure-mobile-app): Developing with Kotlin Multiplatform, for Android & IOS.  
+- 📱 [**ToDo App**](https://github.com/yamastio/ToDoApp): Developing with Kotlin Multiplatform, for Android & IOS.  
 - 💻 [**Secure Webshop**](https://github.com/yamastio/secure-webshop): Learning OWASP practices and secure development.
 
 ---
